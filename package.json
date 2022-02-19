@@ -1,0 +1,22 @@
+{
+  "name": "freeskates",
+  "version": "1.0.0",
+  "description": "Freeskates knowledge for the homies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CubeOfCheese/freeskates.git"
+  },
+  "author": "CubeOfCheese",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CubeOfCheese/freeskates/issues"
+  },
+  "homepage": "https://github.com/CubeOfCheese/freeskates#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
